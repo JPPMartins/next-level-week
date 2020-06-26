@@ -1,5 +1,5 @@
 # Next Level Week 
-Semana dedicada a criar uma aplicação de ozero com as tecnologias, Node.js, ReactJS e React Native.
+Semana dedicada a criar uma aplicação do zero com as tecnologias, Node.js, ReactJS e React Native.
 
 ## Server 
 
