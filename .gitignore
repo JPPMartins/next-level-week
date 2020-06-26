@@ -5,3 +5,4 @@ web/package-lock.json
 web/node_modules
 mobile/node_modules
 mobile/yarn.lock
+mobile/.expo/
